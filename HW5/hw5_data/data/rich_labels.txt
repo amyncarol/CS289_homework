@@ -1,0 +1,46 @@
+apple_0 one red apple in red basket
+apple_1 one red apple on table 
+banana_0 one hand of banana on table
+banana_1 one hand of banana on table
+bell_pepper_0 one green bell pepper in hand
+bell_pepper_1 one green bell pepper in hand
+broccoli_0 one broccoli in hand against floor 
+broccoli_1 one broccoli in hand against floor 
+cabbage_0 one cabbage in hand 
+cabbage_1 one cabbage in hand
+carrot_0 several bunches of carrots on rack
+carrot_1 one bunch of carrots in hand
+cauliflower_0 one cauliflower in hand against floor
+cauliflower_1 one cauliflower in hand
+celery_0 one celery in hand against floor
+celery_1 one celery in hand against floor
+eggplant_0 one eggplant in hand
+eggplant_1 one eggplant in hand against floor
+garlic_0 garlics
+garlic_1 two garlics in hand
+ginger_0 gingers in green mesh bag
+ginger_1 gingers in green mesh bag
+grape_0 black grapes in plastic package
+grape_1 green grapes in plastic package
+mango_0 green mango in red basket
+mango_1 mango in red basket
+nectarine_0 one red nectarine in red basket
+nectarine_1 one red nectarine in red basket
+orange_0 one orange in hand against floor
+orange_1 one orange in hand against floor
+pear_0 one pear in hand against floor
+pear_1 one pear in hand against floor
+pineapple_0 one pineapple in hand against floor
+pineapple_1 one pineapple in hand against floor
+plum_0 one plum in hand against floor
+plum_1 one plum in hand against floor
+potato_0 potatoes
+potato_1 two potatoes in hand against floor
+radish_0 three white radishes in hand
+radish_1 white radishes in hand against floor
+spinach_0 spinach in hand against floor
+spinach_1 spinach in hand against floor
+tomato_0 tomatoes
+tomato_1 one tomato in hand 
+watermelon_0 one watermelon in red basket
+watermelon_1 one watermelon in red basket
