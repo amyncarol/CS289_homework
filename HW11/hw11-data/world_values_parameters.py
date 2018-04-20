@@ -31,7 +31,7 @@ classification_svm_parameters = {
     'svm__C': np.arange(1.0, 100.0, 1.0),
 
     # Original hyperparameters scaled by 1/100
-    # 'svm__C': np.arange(0.01, 1.0, 0.01),
+    #'svm__C': np.arange(0.01, 1.0, 0.01),
 
     # Hyperparameter search over all possible dimensions for PCA reduction
     #'pca__n_components': np.arange(1, 17),

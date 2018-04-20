@@ -58,10 +58,10 @@ k_nearest_neighbors_regression_pipeline = Pipeline(
 svm_classification_pipeline = Pipeline(
         [
             # # Apply PCA to SVM Classification
-            # ('pca', PCA()),
+            #('pca', PCA()),
 
             # # Apply scaling to SVM Classification
-            ('scale', StandardScaler()),
+            #('scale', StandardScaler()),
 
             ('svm', SVC())
         ]
